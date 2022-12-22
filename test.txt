@@ -3,3 +3,5 @@ ini file test
 edit edit
 
 edit test txt, tapi bikin bug
+
+ada
